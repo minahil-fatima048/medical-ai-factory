@@ -10,8 +10,9 @@ This project is a Python operational engine designed to parse, validate, and fla
 * Multi-Metric Risk Aggregation: Runs an integrated conditional priority engine leveraging logical chaining (or operators) to evaluate patient urgency dynamically.
 
 ## My Learning Progression and Bug Fixes
-* Day 1 (Data Plumbing): Mastered dictionary extraction paths. Encountered syntax spacing errors and unaligned line breaks, which I manually refactored.
-* Day 2 (Environment Setup): Handled local virtual environments, debugged PowerShell terminal redirection loops, and successfully deployed my local files to the cloud.
+* Day 1 (Data Plumbing): Mastered dictionary extraction paths and structured fallback baselines for missing vital payloads.
+* Day 2 (Version Control): Configured local Git tracking environments, resolved terminal redirection loop challenges, and pushed codebase to public cloud repositories.
+* Day 3 (Applied AI Integration): Implemented a modular application structure using Python imports. Successfully integrated local conditional filtering with Google Gemini's live LLM via environment secret parameters.
 
 ## Tech Stack and Environment
 * Language: Python 3.x
